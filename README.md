@@ -1,4 +1,5 @@
 # The Simple CURL Code
+# 쓰다가 문제 생겨도 책임 안져용
 
 ```php
 <?php
